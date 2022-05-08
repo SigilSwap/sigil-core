@@ -1,5 +1,5 @@
 {
-  "name": "goth-core",
+  "name": "sigil-core",
   "version": "1.0.0",
   "description": "This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.",
   "main": "index.js",
@@ -859,13 +859,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GothTokenNetwork/goth-core.git"
+    "url": "git+https://github.com/SigilSwap/sigil-core.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GothTokenNetwork/goth-core/issues"
+    "url": "https://github.com/SigilSwap/sigil-core/issues"
   },
-  "homepage": "https://github.com/GothTokenNetwork/goth-core#readme"
+  "homepage": "https://github.com/SigilSwap/sigil-core#readme"
 }
