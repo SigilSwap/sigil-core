@@ -1,4 +1,4 @@
-# Basic Sample Hardhat Project
+# SigilSwap Core Contracts
 
 This is the main repository for SigilSwap core contracts on the Avalanche blockchain, they are written in Solidity and use a Hardhat Runtime Environment.
 
